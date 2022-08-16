@@ -1,2 +1,8 @@
 # IEOR_4530_Final_Project
-Our group's final project in the course IEOR 4530, where we researched in the online crowdsourcing problems.
+IEOR 4530 AI, Games, and Markets
+
+Instructor: Christian Kroer
+
+Project: Mechanism Design for Online Crowdsourcing Problem
+
+Group member: Xinghan Gong, Wenqian Xing, Hui Huang, Yufei Wu
